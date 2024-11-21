@@ -1,0 +1,7 @@
+/* body{background-color: black;} */
+h1{text-align: center;text-shadow: 1px 1px;text-transform: uppercase;text-decoration: underline 2px;font-size: 50px;border: 4px solid black;}
+h2{font-weight: 500;}
+img{padding: 0.4%}
+#conclusion{font-style: oblique;text-decoration: underline 2px;font-weight: 500;}
+.pianetacinema{font-size: 16.5px;font-weight: 400;}
+*{font-family: roboto;}
